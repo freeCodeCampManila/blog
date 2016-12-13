@@ -1,0 +1,43 @@
+{
+  "name": "fcc-manila-blog",
+  "version": "1.0.0",
+  "description": "Free Code Camp Manila Official Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FCCManila/fccmanila.github.io.git"
+  },
+  "keywords": [
+    "code",
+    "coding",
+    "coder",
+    "codes",
+    "coders",
+    "program",
+    "programming",
+    "programs",
+    "programmer",
+    "programmers",
+    "philippines",
+    "pilipinas",
+    "filipino",
+    "pilipino",
+    "manila",
+    "community",
+    "learning",
+    "education",
+    "self-study",
+    "javascript",
+    "frontend",
+    "backend"
+  ],
+  "author": "Free Code Camp Manila (https://www.facebook.com/groups/free.code.camp.manila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FCCManila/fccmanila.github.io/issues"
+  },
+  "homepage": "https://github.com/FCCManila/fccmanila.github.io#readme"
+}
