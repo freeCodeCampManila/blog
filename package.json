@@ -4,11 +4,33 @@
   "description": "Free Code Camp Manila Official Blog",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gatsby develop",
+    "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "deploy": "gatsby build --prefix-links && gh-pages -d public"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FCCManila/fccmanila.github.io.git"
+  },
+  "dependencies": {
+    "gatsby": "^0.12.22",
+    "lodash": "^4.17.2",
+    "moment": "^2.17.1",
+    "react-addons-shallow-compare": "^15.4.1",
+    "react-dates": "^4.1.0",
+    "react-helmet": "^3.2.2",
+    "react-responsive-grid": "^0.3.3",
+    "react-typography": "^0.15.0",
+    "safe-access": "^0.1.0",
+    "typography": "^0.15.0",
+    "typography-theme-wordpress-2016": "^0.15.0",
+    "underscore.string": "^3.2.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
   },
   "keywords": [
     "code",
