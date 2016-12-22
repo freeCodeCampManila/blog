@@ -1,8 +1,8 @@
 {
-  "name": "fcc-manila-blog",
+  "name": "fccmanila-blog",
   "version": "1.0.0",
   "description": "Free Code Camp Manila Official Blog",
-  "main": "index.js",
+  "main": "html.js",
   "scripts": {
     "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FCCManila/fccmanila.github.io.git"
+    "url": "git+https://github.com/FCCManila/blog.git"
   },
   "dependencies": {
     "gatsby": "^0.12.22",
@@ -56,10 +56,10 @@
     "frontend",
     "backend"
   ],
-  "author": "Free Code Camp Manila (https://www.facebook.com/groups/free.code.camp.manila",
+  "author": "Free Code Camp Manila (https://www.facebook.com/groups/free.code.camp.manila)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FCCManila/fccmanila.github.io/issues"
+    "url": "https://github.com/FCCManila/blog/issues"
   },
-  "homepage": "https://github.com/FCCManila/fccmanila.github.io#readme"
+  "homepage": "https://github.com/FCCManila/blog#readme"
 }
