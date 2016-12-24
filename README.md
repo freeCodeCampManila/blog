@@ -23,4 +23,4 @@ This project is owned and maintained by [FREE CODE CAMP MANILA](https://www.face
 - Maintainer 3
 
 # LICENSE
-This project is licensed under the MIT License - see the [LICENSE](license) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
