@@ -14,7 +14,7 @@ Everyone, FCC-Manila members and non-members, from novice to professional, is hi
 For more information on how to contribute, kindly refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 # VERSIONING
-We use [SEMVER](http://www.semver.com) for versioning. For versions available, [see the tags on this repository](https://github.com/FCCManila/blog/tags).
+We use [SEMVER](http://www.semver.org) for versioning. For versions available, [see the tags on this repository](https://github.com/FCCManila/blog/tags).
 
 # MAINTAINERS
 This project is owned and maintained by [FREE CODE CAMP MANILA](https://www.facebook.com/groups/free.code.camp.manila) and is being curated/headed by the following:
