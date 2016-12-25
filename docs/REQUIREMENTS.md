@@ -8,10 +8,10 @@ Did we already mention you will need to read a lot? Well then, you absolutely ne
 
 Here is a list of the minimum skills that you will have to know to start working on our particular project:
 
-- ##### Proper Behavior
-  As contributors, we are bound by the [Contributor Covenant Code of Conduct](code_of_conduct.md). Everyone is expected to strictly abide by it. Please read and understand the Covenant and take it into heart.
+- ### Proper Behavior
+  As contributors, we are bound by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Everyone is expected to strictly abide by it. Please read and understand the Covenant and take it into heart.
 
-- ##### Markdown and Proper Writing Techniques `GREAT FOR NEWBIES`
+- ### Markdown and Proper Writing Techniques `GREAT FOR NEWBIES`
   If you want to contribute articles and documentation, you have to know Markdown.
 
   Markdown is the least intimidating skill to learn among those listed here. It can be a good starting point for the absolute beginner.
@@ -20,10 +20,10 @@ Here is a list of the minimum skills that you will have to know to start working
 
   [ [Learn Markdown](https://zapier.com/blog/beginner-ultimate-guide-markdown/) ] [ [Some Writing Tips](http://writetodone.com/how-to-write-better/) ]
 
-- ##### HTML, CSS, Javascript `GOOD FOR NEWBIES TOO`
+- ### HTML, CSS, Javascript `GOOD FOR NEWBIES TOO`
   If you plan on working on the backend of the blog, you will need to learn HTML, CSS, and Javascript. Luckily, [Free Code Camp](https://www.freecodecamp.com) offers a [curriculum](https://www.freecodecamp.com/map) especially designed for web development.
 
-- ##### React and ES6 `FOR THE ADVANCED DEVELOPERS`
+- ### React and ES6 `FOR THE ADVANCED DEVELOPERS`
   If you plan on working on the appearance (front-end UI) of the blog, you will need to learn React too.
 
   React is a front-end Javascript library being developed by Facebook. It is easy and fun to work with.
@@ -48,11 +48,11 @@ Here is a list of the minimum skills that you will have to know to start working
 
     - **Powershell** _TODO_
 
-- **Node and NPM** [ [Learn NPM]() ] --- _No need to learn Node (yet)_
+- **Node and NPM** [ [Learn NPM](https://www.sitepoint.com/beginners-guide-node-package-manager/) ] --- _No need to learn Node (yet)_
 
   - **Linux** _TODO_
 
-  - **MacOS** [ [Install]() ] [ [Install Via Homebrew]() ]
+  - **MacOS** [ [Install](https://nodejs.org/en/download/) ] [ [Install Via Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac) ]
 
   - **Windows** _TODO_
 
@@ -64,11 +64,11 @@ Here is a list of the minimum skills that you will have to know to start working
 
   - **Windows** _TODO_
 
-- **Git** [ [Learn]() ]
+- **Git** [ [Learn](https://www.youtube.com/watch?v=HVsySz-h9r4) ]
 
   - **Linux** _TODO_
 
-  - **MacOS** [ [Install]() ] [ [Install Via Homebrew]() ]
+  - **MacOS** [ [Install](https://git-scm.com/download/mac) ] [ [Install Via Homebrew](http://michaelcrump.net/step-by-step-how-to-update-git/) ]
 
   - **Windows** _TODO_
 
