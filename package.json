@@ -5,12 +5,12 @@
   "main": "html.js",
   "scripts": {
     "start": "npm run dev",
-    "dev": "./node_modules/.bin/gatsby develop",
-    "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
+    "dev": "gatsby develop",
+    "lint:js": "eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "develop": "./node_modules/.bin/gatsby develop",
-    "build": "./node_modules/.bin/gatsby build",
-    "deploy": "./node_modules/.bin/gatsby build --prefix-links && gh-pages -d public"
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "deploy": "gatsby build --prefix-links && gh-pages -d public"
   },
   "repository": {
     "type": "git",
