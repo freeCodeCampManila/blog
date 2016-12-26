@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "gatsby develop",
-    "lint:js": "eslint --ext .js,.jsx --ignore-pattern public .",
+    "lint:js": "eslint --ext .js,.jsx --ignore-pattern public . || exit 0",
+    "lint:md": "markdownlint *.md docs/*.md pages/*.md pages/**/*.md || exit 0",
     "test": "echo \"Error: no test specified\" && exit 1",
     "develop": "gatsby develop",
     "build": "gatsby build",
@@ -35,7 +36,9 @@
     "eslint-config-standard": "^6.2.1",
     "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-standard": "^2.0.1",
-    "gh-pages": "^0.12.0"
+    "gh-pages": "^0.12.0",
+    "markdownlint": "^0.3.1",
+    "markdownlint-cli": "^0.2.0"
   },
   "keywords": [
     "code",
