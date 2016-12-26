@@ -9,7 +9,7 @@
 
 3. Click on `Fork` button on the upper right side of the page.
 
-4. Select your profile on the `Where should we fork this repository?` popup. After Github finishes forking the repository, it will take you to `https://github.com/<your_username>/blog`.
+4. Select your profile on the `Where should we fork this repository?` popup. Github will proceed on copying (or forking) the FCCManila Blog repository to a repository under your profile. After Github finishes forking the repository, it will take you to `https://github.com/<your_username>/blog`.
 
 5. Find and click the `Clone or download` button. Copy the link provided in the dropdown.
 
