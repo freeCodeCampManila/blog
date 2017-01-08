@@ -6,9 +6,10 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "gatsby develop",
+    "lint": "npm run lint:js && npm run lint:md",
     "lint:js": "eslint --ext .js,.jsx --ignore-pattern public . || exit 0",
     "lint:md": "markdownlint *.md docs/*.md pages/*.md pages/**/*.md || exit 0",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npm run lint",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "deploy": "gatsby build --prefix-links && gh-pages -d public"
