@@ -25,7 +25,7 @@ So pack in a lot of patience and broaden your attention span, let's dive in, sha
 
 #### 5. [The Github Fork & Pull Request Workflow](docs/FORK_AND_PULL.md)
 
-#### 6. [The FCC-Manila Development Workflow](FCC_WORKFLOW.md)
+#### 6. [The FCC-Manila Development Workflow](docs/FCC_WORKFLOW.md)
 
 #### 7. [What to Contribute?](docs/WHAT_TO_CONTRIBUTE.md)
 
