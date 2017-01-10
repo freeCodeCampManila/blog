@@ -29,6 +29,6 @@ So pack in a lot of patience and broaden your attention span, let's dive in, sha
 
 #### 7. [What to Contribute?](docs/WHAT_TO_CONTRIBUTE.md)
 
-#### 8. [Conventions and Best Practices](docs/CONVENTIONS.md)
+#### 8. [Conventions and Best Practices](docs/BEST_PRACTICES.md)
 
 #### 9. [FAQs](docs/FAQs.md)
