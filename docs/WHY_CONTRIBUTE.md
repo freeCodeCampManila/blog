@@ -14,7 +14,7 @@ In the process, all contributors will learn the essentials in working on an open
 
 ## Are you an absolute beginner? No need to worry.
 
-We will try to make this project as beginner-friendly as possible and will tag _issues_ (more on this later) that are easy to resolve as `NEWBIES-ONLY`.
+We will try to make this project as beginner-friendly as possible and will tag _issues_ (more on this later) that are easy to resolve as [`NEWBIE-FRIENDLY`](https://github.com/FCCManila/blog/labels/NEWBIE%20FRIENDLY).
 
 And, of course, our Facebook community will be more than willing to assist. Just hop on to https://www.facebook.com/groups/free.code.camp.manila.
 
