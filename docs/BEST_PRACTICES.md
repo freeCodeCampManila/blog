@@ -1,4 +1,7 @@
-[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
+[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)  
+[&lt; Previous](WHAT_TO_CONTRIBUTE.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](FAQs.md)
 ***
 
 # CONVENTIONS AND BEST PRACTICES
@@ -21,4 +24,7 @@ In order to increase maintainability of the project's codebase, we will adopt ce
 
 
 ***
+[&lt; Previous](WHAT_TO_CONTRIBUTE.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](FAQs.md)  
 [&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)

@@ -1,4 +1,7 @@
-[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
+[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)  
+[&lt; Previous](WHY_CONTRIBUTE.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](INSTALLATION.md)
 ***
 
 # REQUIREMENTS
@@ -98,4 +101,7 @@ Here is a list of the minimum skills that you will have to know to start working
 - **A Free Github Account** [ [Sign Up](https://github.com/join) ]
 
 ***
+[&lt; Previous](WHY_CONTRIBUTE.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](INSTALLATION.md)  
 [&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)

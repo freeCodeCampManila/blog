@@ -1,4 +1,7 @@
-[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
+[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)  
+[&lt; Previous](FORK_AND_PULL.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](WHAT_TO_CONTRIBUTE.md)
 ***
 
 # FCC-MANILA BLOG DEVELOPMENT WORKFLOW
@@ -38,4 +41,7 @@ Development in this project will follow [Github Fork and Pull Request Workflow](
 To be determined
 
 ***
+[&lt; Previous](FORK_AND_PULL.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](WHAT_TO_CONTRIBUTE.md)  
 [&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
