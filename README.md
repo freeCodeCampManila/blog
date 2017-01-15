@@ -19,9 +19,11 @@ We use [SEMVER](http://www.semver.org) for versioning. For versions available, [
 ## MAINTAINERS
 This project is owned and maintained by [FREE CODE CAMP MANILA](https://www.facebook.com/groups/free.code.camp.manila) and is being curated/headed by the following:
 
-- [iBLEEDfilm](http://github.com/ibleedfilm)
-- Maintainer 2
-- Maintainer 3
+- [iBLEEDfilm](https://github.com/ibleedfilm)
+- [jimsonsulit](https://github.com/jimsonsulit)
+- [freeicecream](https://github.com/freeicecream)
+- [arante](https://github.com/arante)
+- [001-301dev](https://github.com/001-301dev)
 
 ## LICENSE
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
