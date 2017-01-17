@@ -1,4 +1,6 @@
 [&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](REQUIREMENTS.md)
 ***
 
 # WHY CONTRIBUTE?
@@ -20,3 +22,5 @@ And, of course, our Facebook community will be more than willing to assist. Just
 
 ***
 [&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](REQUIREMENTS.md)

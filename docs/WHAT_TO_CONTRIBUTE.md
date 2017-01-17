@@ -1,4 +1,7 @@
-[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
+[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)  
+[&lt; Previous](FCC_WORKFLOW.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](BEST_PRACTICES.md)
 ***
 
 # WHAT TO CONTRIBUTE
@@ -69,4 +72,7 @@ You can file issues in the [Issues Page](https://github.com/FCCManila/blog/issue
 If you are an advanced developer, we're sure you'll find something in the codebase you can tinker with. Major areas for enhancement include customization of Gatsby and React for the blog's unique purposes, installation of additional useful NPM packages and tools, etc. Let your imagination and magic run wild!
 
 ***
+[&lt; Previous](FCC_WORKFLOW.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](BEST_PRACTICES.md)  
 [&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)

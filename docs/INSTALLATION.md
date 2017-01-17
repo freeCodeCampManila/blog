@@ -1,4 +1,7 @@
-[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
+[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)  
+[&lt; Previous](REQUIREMENTS.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](SETTING_UP.md)
 ***
 
 # INSTALLATION
@@ -32,4 +35,7 @@ _NEWBIE NOTE: For terminal commands, you don't need to include the dollar (`$`) 
 **Congratulations! You now have a copy of the FCC-Manila Blog running on a server on your own computer!**
 
 ***
+[&lt; Previous](REQUIREMENTS.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](SETTING_UP.md)  
 [&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)

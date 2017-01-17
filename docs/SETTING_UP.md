@@ -1,4 +1,7 @@
-[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
+[&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)  
+[&lt; Previous](INSTALLATION.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](FORK_AND_PULL.md)
 ***
 
 # SETTING UP
@@ -21,4 +24,7 @@ This section assumes basic Git knowledge. If you are not familiar with Git, kind
 Note: Steps `3-5` are part of the Github Fork and Pull-Request Workflow, which will be discussed [here](FORK_AND_PULL.md).
 
 ***
+[&lt; Previous](INSTALLATION.md)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[Next &gt;](FORK_AND_PULL.md)  
 [&laquo; Back to TOC](../CONTRIBUTING.md#table-of-contents)
