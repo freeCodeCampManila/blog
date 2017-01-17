@@ -84,7 +84,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Python** --- _No need to learn Python, just install it_
 
-  - **Linux** --- Most of the popular Linux distros (Ubuntu, Fedora, CentOS, etc.) have pre-installed Python (2.7 or earlier, at least) interpreter out of the box. If not please check this one out, [ [Installing Python on Linux](http://docs.python-guide.org/en/latest/starting/install/linux/) ]
+  - **Linux** --- Most of the popular Linux distros (Ubuntu, Fedora, CentOS, etc.) have pre-installed Python (2.7 or earlier, at least) interpreter out of the box. If not please check this one out, [ [Installing Python on Linux](http://docs.python-guide.org/en/latest/starting/install/linux/) ].
 
   - **MacOS** --- It already comes built-in
 
@@ -96,7 +96,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
   - **MacOS** [ [Install](https://git-scm.com/download/mac) ] [ [Install Via Homebrew](http://michaelcrump.net/step-by-step-how-to-update-git/) ]
 
-  - **Windows** _TODO_
+  - **Windows** [ [Installing Python on Windows](http://www.stuartellis.name/articles/python-development-windows/) ]
 
 - **A Free Github Account** [ [Sign Up](https://github.com/join) ]
 
