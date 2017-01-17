@@ -84,7 +84,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Python** --- _No need to learn Python, just install it_
 
-  - **Linux** --- Most of the popular Linux distros (Ubuntu, Fedora, Debian, et.) have pre-installed Python (2.7 or earlier, at least) interpreter.
+  - **Linux** --- Most of the popular Linux distros (Ubuntu, Fedora, CentOS, etc.) have pre-installed Python (2.7 or earlier, at least) interpreter out of the box. If not please check this one out, [ [Installing Python on Linux](http://docs.python-guide.org/en/latest/starting/install/linux/) ]
 
   - **MacOS** --- It already comes built-in
 
