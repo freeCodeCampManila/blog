@@ -92,7 +92,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Git** [ [Learn](https://www.youtube.com/watch?v=HVsySz-h9r4) ]
 
-  - **Linux** _TODO_
+  - **Linux** [ [Install via terminal using preferred package manager of your distro](https://git-scm.com/download/linux) ]
 
   - **MacOS** [ [Install](https://git-scm.com/download/mac) ] [ [Install Via Homebrew](http://michaelcrump.net/step-by-step-how-to-update-git/) ]
 
