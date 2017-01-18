@@ -6,10 +6,11 @@
 
 # REQUIREMENTS
 
-## SKILL & KNOWLEDGE REQUIREMENTS
-Did we already mention you will need to read a lot? Well then, you absolutely need to read a lot. But learning is not a chore, it's a privilege!
+## SKILLS & KNOWLEDGE REQUIREMENTS
 
-Here is a list of the minimum skills that you will have to know to start working on our particular project:
+  Did we already mention you will need to read a lot? Well then, you absolutely need to read a lot. But learning is not a chore, it's a privilege!
+
+  Here is a list of the minimum skills that you will have to know to start working on our particular project:
 
 - ### Proper Behavior
   As contributors, we are bound by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Everyone is expected to strictly abide by it. Please read and understand the Covenant and take it into heart.
@@ -30,6 +31,7 @@ Here is a list of the minimum skills that you will have to know to start working
   [ [Learn Git](https://www.youtube.com/watch?v=HVsySz-h9r4) ] [ [Learn Github](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) ]
 
 - ### Markdown and Proper Writing Techniques `GREAT FOR NEWBIES`
+
   If you want to contribute articles and documentation, you have to know Markdown.
 
   Markdown is the least intimidating skill to learn among those listed here. It can be a good starting point for the absolute beginner.
@@ -84,7 +86,9 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Python** --- _No need to learn Python, just install it_
 
-  - **Linux** --- Most of the popular Linux distros (Ubuntu, Fedora, CentOS, etc.) have pre-installed Python (2.7 or earlier, at least) interpreter out of the box. If not please check this one out. [ [Install](http://docs.python-guide.org/en/latest/starting/install/linux/) ]
+  - **Linux** --- Most of the popular Linux distros (Ubuntu, Fedora, CentOS, etc.) have pre-installed Python (2.7 or earlier, at least) interpreter out of the box. If not please check this one out.
+
+    [ [Install Python on  Linux](http://docs.python-guide.org/en/latest/starting/install/linux/) ]
 
   - **MacOS** --- It already comes built-in
 
@@ -92,7 +96,9 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Git** [ [Learn](https://www.youtube.com/watch?v=HVsySz-h9r4) ]
 
-  - **Linux** [ [Install Via Terminal](https://git-scm.com/download/linux) ]
+  - **Linux** --- Use a terminal and the preferred package manager of your distro. A ported version of [Homebrew](http://brew.sh/), that is [Linuxbrew](http://linuxbrew.sh/) is quite handy as well.
+
+    [ [Install Git on Linux](https://git-scm.com/download/linux) ]
 
   - **MacOS** [ [Install](https://git-scm.com/download/mac) ] [ [Install Via Homebrew](http://michaelcrump.net/step-by-step-how-to-update-git/) ]
 
