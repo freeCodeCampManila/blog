@@ -88,7 +88,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
   - **MacOS** --- It already comes built-in
 
-  - **Windows** _TODO_
+  - **Windows** [ [Installing Python on Windows](http://www.stuartellis.name/articles/python-development-windows/) ]
 
 - **Git** [ [Learn](https://www.youtube.com/watch?v=HVsySz-h9r4) ]
 
@@ -96,7 +96,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
   - **MacOS** [ [Install](https://git-scm.com/download/mac) ] [ [Install Via Homebrew](http://michaelcrump.net/step-by-step-how-to-update-git/) ]
 
-  - **Windows** [ [Installing Python on Windows](http://www.stuartellis.name/articles/python-development-windows/) ]
+  - **Windows** _TODO_
 
 - **A Free Github Account** [ [Sign Up](https://github.com/join) ]
 
