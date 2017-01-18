@@ -62,7 +62,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Any desktop or laptop computer** with Linux, MacOS, or Windows installed.
 
-- **A text editor** (e.g. Notepad, [Sublime](https://www.sublimetext.com/3), [Atom](https://atom.io/))
+- **A text editor** (e.g. Notepad, [Sublime](https://www.sublimetext.com/3), [Atom](https://atom.io/), [Notepad++ (Notepad alternative)](#))
 
 - **A command line terminal** --- _Don't worry much about scripting. Just learn the basic commands._
 
