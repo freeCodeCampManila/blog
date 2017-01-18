@@ -76,7 +76,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Node and NPM** [ [Learn NPM](https://www.sitepoint.com/beginners-guide-node-package-manager/) ] --- _No need to learn Node (yet)_
 
-  - **Linux** _TODO_
+  - **Linux** [ [Install](http://blog.teamtreehouse.com/install-node-js-npm-linux) ]
 
   - **MacOS** [ [Install](https://nodejs.org/en/download/) ] [ [Install Via Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac) ]
 
