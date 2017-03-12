@@ -6,10 +6,11 @@
 
 # REQUIREMENTS
 
-## SKILL & KNOWLEDGE REQUIREMENTS
-Did we already mention you will need to read a lot? Well then, you absolutely need to read a lot. But learning is not a chore, it's a privilege!
+## SKILLS & KNOWLEDGE REQUIREMENTS
 
-Here is a list of the minimum skills that you will have to know to start working on our particular project:
+  Did we already mention you will need to read a lot? Well then, you absolutely need to read a lot. But learning is not a chore, it's a privilege!
+
+  Here is a list of the minimum skills that you will have to know to start working on our particular project:
 
 - ### Proper Behavior
   As contributors, we are bound by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). Everyone is expected to strictly abide by it. Please read and understand the Covenant and take it into heart.
@@ -30,6 +31,7 @@ Here is a list of the minimum skills that you will have to know to start working
   [ [Learn Git](https://www.youtube.com/watch?v=HVsySz-h9r4) ] [ [Learn Github](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) ]
 
 - ### Markdown and Proper Writing Techniques `GREAT FOR NEWBIES`
+
   If you want to contribute articles and documentation, you have to know Markdown.
 
   Markdown is the least intimidating skill to learn among those listed here. It can be a good starting point for the absolute beginner.
@@ -62,7 +64,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Any desktop or laptop computer** with Linux, MacOS, or Windows installed.
 
-- **A text editor** (e.g. Notepad, [Sublime](https://www.sublimetext.com/3), [Atom](https://atom.io/))
+- **A text editor** (e.g. Notepad, [Sublime](https://www.sublimetext.com/3), [Atom](https://atom.io/), [Notepad++ (Notepad alternative)](#))
 
 - **A command line terminal** --- _Don't worry much about scripting. Just learn the basic commands._
 
@@ -76,7 +78,7 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Node and NPM** [ [Learn NPM](https://www.sitepoint.com/beginners-guide-node-package-manager/) ] --- _No need to learn Node (yet)_
 
-  - **Linux** _TODO_
+  - **Linux** [ [Install](http://blog.teamtreehouse.com/install-node-js-npm-linux) ]
 
   - **MacOS** [ [Install](https://nodejs.org/en/download/) ] [ [Install Via Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac) ]
 
@@ -84,19 +86,23 @@ Here is a list of the minimum skills that you will have to know to start working
 
 - **Python** --- _No need to learn Python, just install it_
 
-  - **Linux** _TODO_
+  - **Linux** --- Most of the popular Linux distros (Ubuntu, Fedora, CentOS, etc.) have pre-installed Python (2.7 or earlier, at least) interpreter out of the box. If not please check this one out.
+
+    [ [Install Python on  Linux](http://docs.python-guide.org/en/latest/starting/install/linux/) ]
 
   - **MacOS** --- It already comes built-in
 
-  - **Windows** _TODO_
+  - **Windows** [ [Install](http://www.stuartellis.name/articles/python-development-windows/) ]
 
 - **Git** [ [Learn](https://www.youtube.com/watch?v=HVsySz-h9r4) ]
 
-  - **Linux** _TODO_
+  - **Linux** --- Use a terminal and the preferred package manager of your distro. A ported version of [Homebrew](http://brew.sh/), that is [Linuxbrew](http://linuxbrew.sh/) is quite handy as well.
+
+    [ [Install Git on Linux](https://git-scm.com/download/linux) ]
 
   - **MacOS** [ [Install](https://git-scm.com/download/mac) ] [ [Install Via Homebrew](http://michaelcrump.net/step-by-step-how-to-update-git/) ]
 
-  - **Windows** _TODO_
+  - **Windows** [ [Install](https://git-for-windows.github.io/) ]
 
 - **A Free Github Account** [ [Sign Up](https://github.com/join) ]
 
