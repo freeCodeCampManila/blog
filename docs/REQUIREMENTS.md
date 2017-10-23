@@ -74,7 +74,7 @@
 
     - **Bash for Windows** (recommended) [ [Install](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) ] [ [Learn](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything) ]
 
-    - **Powershell** _TODO_
+    - **Powershell** [ [Learn](https://rkeithhill.wordpress.com/2009/03/08/effective-windows-powershell-the-free-ebook/) ]
 
 - **Node and NPM** [ [Learn NPM](https://www.sitepoint.com/beginners-guide-node-package-manager/) ] --- _No need to learn Node (yet)_
 
@@ -82,7 +82,7 @@
 
   - **MacOS** [ [Install](https://nodejs.org/en/download/) ] [ [Install Via Homebrew](http://blog.teamtreehouse.com/install-node-js-npm-mac) ]
 
-  - **Windows** _TODO_
+  - **Windows** [ [Install](http://blog.teamtreehouse.com/install-node-js-npm-windows) ]
 
 - **Python** --- _No need to learn Python, just install it_
 
