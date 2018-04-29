@@ -7,21 +7,22 @@ import Bio from '../components/Bio'
 import { rhythm } from '../utils/typography'
 
 class BlogIndex extends React.Component {
-  render() {
+  render () {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
+    const siteData = this.props.data.site.siteMetadata
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
 
     return (
       <div>
         <Helmet title={siteTitle} />
-        <Bio />
+        <Bio author={siteData.author} description={siteData.description} />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
             <div key={node.fields.slug}>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginBottom: rhythm(1 / 4)
                 }}
               >
                 <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
@@ -45,6 +46,8 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        author
+        description
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
