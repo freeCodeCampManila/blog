@@ -1,15 +1,19 @@
 import React from 'react'
-import { Link } from 'react-router'
-import { Container } from 'react-responsive-grid'
-import { prefixLink } from 'gatsby-helpers'
-import { rhythm, scale } from 'utils/typography'
-import { config } from 'config'
+import Link from 'gatsby-link'
+
+import { rhythm, scale } from '../utils/typography'
 
 class Template extends React.Component {
-  render () {
+  render() {
     const { location, children } = this.props
     let header
-    if (location.pathname === prefixLink('/')) {
+
+    let rootPath = `/`
+    if (typeof __PREFIX_PATHS__ !== `undefined` && __PREFIX_PATHS__) {
+      rootPath = __PATH_PREFIX__ + `/`
+    }
+
+    if (location.pathname === rootPath) {
       header = (
         <h1
           style={{
@@ -24,9 +28,9 @@ class Template extends React.Component {
               textDecoration: 'none',
               color: 'inherit',
             }}
-            to={prefixLink('/')}
+            to={'/'}
           >
-            {config.blogTitle}
+            Gatsby Starter Blog
           </Link>
         </h1>
       )
@@ -36,6 +40,7 @@ class Template extends React.Component {
           style={{
             fontFamily: 'Montserrat, sans-serif',
             marginTop: 0,
+            marginBottom: rhythm(-1),
           }}
         >
           <Link
@@ -44,31 +49,27 @@ class Template extends React.Component {
               textDecoration: 'none',
               color: 'inherit',
             }}
-            to={prefixLink('/')}
+            to={'/'}
           >
-            {config.blogTitle}
+            Gatsby Starter Blog
           </Link>
         </h3>
       )
     }
     return (
-      <Container
+      <div
         style={{
+          marginLeft: 'auto',
+          marginRight: 'auto',
           maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3/4)}`,
+          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
         {header}
-        {children}
-      </Container>
+        {children()}
+      </div>
     )
   }
-}
-
-Template.propTypes = {
-  children: React.PropTypes.any,
-  location: React.PropTypes.object,
-  route: React.PropTypes.object,
 }
 
 export default Template
