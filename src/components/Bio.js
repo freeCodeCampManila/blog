@@ -30,7 +30,7 @@ class Bio extends React.Component {
         />
         <div>
           <p style={{ marginBottom: 0 }}>
-            Written by <strong>{author}</strong>
+            <strong>{author}</strong>
           </p>
           <p>{description}</p>
         </div>
