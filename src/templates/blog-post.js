@@ -25,7 +25,7 @@ class BlogPostTemplate extends React.Component {
             marginTop: rhythm(-1)
           }}
         >
-          {post.frontmatter.date}
+          {post.frontmatter.author} &#8226; {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -82,6 +82,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        author
       }
     }
   }
